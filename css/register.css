@@ -1,0 +1,21 @@
+.register-photo {
+    display: flex;
+    width: 50%;
+    margin: auto;
+    
+}
+.register-card {
+    background-color:lightblue;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+.register-name {
+    text-align: center;
+}
+
+.register-text {
+    text-align: center;
+}
