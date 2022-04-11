@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@500&family=Playfair+Display:wght@900&display=swap');
 
+head {
+    font-family: 'Playfair Display', serif;
+    color: #f2b75e;
+    font-size: 36px;
+    text-align: center;
+}
 
+p {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
 
 table {
     border: 1px solid gray;
