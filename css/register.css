@@ -1,3 +1,36 @@
+
+.logo {
+    font-family: 'Playfair Display', serif;
+    display: inline-block;
+    font-size: 36px;
+    justify-content: space-around;
+}
+
+.logo span {
+    color: #436a58;
+}
+
+.eye {
+    height: 54px;
+}
+
+.fortess {
+    width: 100%;
+}
+
+.header-list_item {
+    display: inline-block;
+    justify-content: space-between;
+    font-size: 18px;
+    color: #f2b75e;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    
+}
+
+.header-list_item:hover {
+    color: #d74944;
+}
+
 .register-photo {
     display: flex;
     width: 50%;
