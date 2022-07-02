@@ -1,24 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@500&family=Playfair+Display:wght@900&display=swap');
+ 
+root {
+    max-width: 1020px;
+    margin: auto;
+}
+.article {
+background-color: rgb(251, 247, 238);
+box-shadow: 15px 15px #f2b75e;
+}
 
-head {
+h2 {
     font-family: 'Playfair Display', serif;
-    color: #f2b75e;
+    color: #436a58;
     font-size: 36px;
     text-align: center;
 }
 
 p {
     font-family: 'Fira Sans Extra Condensed', sans-serif;
+    margin: auto;
 }
-
+.table {
+    margin: 5px;
+   width: 90%;
+}
 table {
-    border: 1px solid gray;
+    border: 1px solid #436a58;
+    margin: auto;  
+    max-width: 80%;
+    padding: 0;
 }
 
 th {
-    border: 1px solid gray;
+    border: 1px solid #436a58;
+    text-align: center;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
 }
 
 td {
-    border: 1px solid gray;
+    border: 1px solid #436a58;
+    text-align: center;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
 }
