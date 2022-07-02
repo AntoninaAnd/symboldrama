@@ -5,8 +5,8 @@ root {
     margin: auto;
 }
 .article {
-background-color: rgb(251, 247, 238);
-box-shadow: 15px 15px #f2b75e;
+   background-color: rgb(251, 247, 238);
+   box-shadow: 15px 15px #f2b75e;
 }
 
 h2 {

@@ -5,6 +5,36 @@
     margin: auto;
     max-width: 120;
 }
+
+.carousel-reviews {
+    font-family: 'Rubik';
+    color: rgb(137, 128, 130);
+    text-align: center;
+    height: 180px;
+    display: flex;
+    align-items: center;
+}
+
+.carousel {
+    display: grid;
+    grid-template-columns: 1fr 8fr 1fr;
+    font-family: 'Rubik';
+    color: rgb(137, 128, 130);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.carousel-prev {
+    background-color: rgb(251, 247, 238);
+    border: 0px;
+}  
+
+.carousel-next {
+    background-color: rgb(251, 247, 238);
+    border: 0px;
+}
+
+
 .logo {
     font-family: 'Playfair Display', serif;
     display: inline-block;
@@ -44,6 +74,23 @@
     
 }
 
+.main {
+    background-color: rgb(251, 247, 238);
+}
+
 p {
     font-family: 'Fira Sans Extra Condensed', sans-serif;
+    text-align: justify;
+    margin: 10px;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;  
+    color: #f2b75e;
+    text-align: center;
+}
+
+.leuner-img {
+    margin: auto;
+    width: 90%;
 }
