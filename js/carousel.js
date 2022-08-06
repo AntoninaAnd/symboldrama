@@ -1,7 +1,7 @@
 (function () {
     const slides = [
-        ` <img src="img/carrousel/перші психологічні посиденьки.2003-2004 рр..jpg" class="d-block w-100" alt="...">`,
-        ` <img src="img/carrousel/IMG-a53d7d0477fe80188145d1de5aa51341-V.jpg" class="d-block w-100" alt="...">`,
+        `<img src="img/carrousel/перші психологічні посиденьки.2003-2004 рр..jpg" class="d-block w-100" alt="...">`,
+        `<img src="img/carrousel/IMG-a53d7d0477fe80188145d1de5aa51341-V.jpg" class="d-block w-100" alt="...">`,
         `<img src="img/carrousel/IMG-dccd74095fb80b4daa035a268950d646-V.jpg" class="d-block w-100" alt="...">`,
         `<img src="img/carrousel/IMG-ec1b8412fbc47bb92660f1a4fa1c0345-V.jpg" class="d-block w-100" alt="...">`,
         `<img src="img/carrousel/вручення диплому навчаючого психотерапевта.jpg" class="d-block w-100" alt="...">`,
