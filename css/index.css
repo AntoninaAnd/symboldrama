@@ -4,6 +4,7 @@
 :root{
     margin: auto;
     max-width: 120;
+    background: #436a58;
 }
 
 .carousel-reviews {
@@ -93,4 +94,18 @@ h1 {
 .leuner-img {
     margin: auto;
     width: 90%;
+}
+
+.quote {
+    background-image: url(../img/main/FB_IMG_1644518681429.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.quote-text {
+    font-family: 'Playfair Display', serif;  
+    color: #f2b75e;
+    text-align: center;
+    font-size: 3rem;
+    margin: 20px;
 }
